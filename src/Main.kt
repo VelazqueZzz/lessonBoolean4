@@ -3,7 +3,6 @@
 fun main() {
     val trainingDay = 5
     val odd = trainingDay % 2 != 0
-//оор
     println(
         "Упражнения для рук:    $odd\n" +
                 "Упражнения для ног:    ${!odd}\n" +
